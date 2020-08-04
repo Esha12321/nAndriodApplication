@@ -9,5 +9,11 @@
  * @author Esha Bobde
  */
 public class Practice {
-    
+    public static void main(String [] args){
+        
+        String fName = "Esha";
+        String lName = "Bobde";
+        System.out.println("My full name is " + fName + " " + lName);
+        
+    }
 }
