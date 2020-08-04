@@ -13,8 +13,8 @@ public class Fruits {
         int mangoes = 5;  //declaring and describing each variable separately, less efficient
         int apples = 5;
         int bananas = 14;
-        int total = mangoes + apples + bananas;
-        System.out.println("The total number of fruits here are " + mangoes + apples + bananas); //concatonation
+        int Sum = mangoes + apples + bananas;
+        System.out.println("The total number of fruits here are " + Sum); //concatonation
     }
  }
    
