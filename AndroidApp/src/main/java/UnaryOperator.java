@@ -11,7 +11,11 @@
 public class UnaryOperator {
     public static void main(String []arg) {
         
-        double number1 = 5.2;
+        double number1 = 5.2, resultNumber;
+        boolean flag = false; 
+        
+        System.out.println("+number1 = " + +number1);
+      
         
     }
 }
